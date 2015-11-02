@@ -18,7 +18,7 @@ public class Test {
             letterGenerator = new HorizontalLetterGenerator(letters, oddNumber);
             letterGenerator.print();
         } catch (InstantiationException ex) {
-            Logger.getLogger(Test.class.getName()).log(Level.SEVERE, "Not a odd number", ex);
+            Logger.getLogger(Test.class.getName()).log(Level.SEVERE, "Not an odd number", ex);
         }
     }
 
