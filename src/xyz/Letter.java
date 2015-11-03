@@ -2,9 +2,9 @@ package xyz;
 
 public abstract class Letter {
 
-    public final int columnCount;
+    protected final int columnCount;
     public final char symbol = '*';
-    public final int center;
+    protected final int center;
 
     public Letter(int columnCount) {
         this.columnCount = columnCount;
