@@ -8,7 +8,7 @@ I wasn't able to complete the exam with the given time. So, I tried to solve it 
 Note: This solution is not evaluated by any of their technical officer.
 
 Result:
-
+```
 *   *
  * * 
   *  
@@ -33,3 +33,4 @@ Result:
   *     *     *   
  * *    *    *    
 *   *   *   ***** 
+```
